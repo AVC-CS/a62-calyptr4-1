@@ -11,7 +11,6 @@ int getClosestMed(int, int, int);
 
 int getRandom(void)
 {
-    // TODO
     return rand() % 100;
     // TODO
 }
